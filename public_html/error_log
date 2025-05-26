@@ -1,0 +1,19 @@
+[23-Jul-2024 12:44:45 Europe/Istanbul] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /home/u1514538/public_html/teknik_servis_ekle.php on line 28
+[23-Jul-2024 14:06:19 Europe/Istanbul] PHP Parse error:  syntax error, unexpected token "{", expecting "(" in /home/u1514538/public_html/servis_listesi.php on line 65
+[23-Jul-2024 14:24:03 Europe/Istanbul] PHP Parse error:  Unclosed '{' on line 50 in /home/u1514538/public_html/teknik_servis_guncelle.php on line 152
+[23-Jul-2024 14:24:49 Europe/Istanbul] PHP Parse error:  Unclosed '{' on line 50 in /home/u1514538/public_html/teknik_servis_guncelle.php on line 152
+[23-Jul-2024 14:24:54 Europe/Istanbul] PHP Parse error:  Unclosed '{' on line 50 in /home/u1514538/public_html/teknik_servis_guncelle.php on line 152
+[23-Jul-2024 14:51:06 Europe/Istanbul] PHP Parse error:  Unclosed '{' on line 50 in /home/u1514538/public_html/teknik_servis_guncelle.php on line 152
+[23-Jul-2024 14:55:37 Europe/Istanbul] PHP Parse error:  Unclosed '{' on line 51 in /home/u1514538/public_html/teknik_servis_guncelle.php on line 156
+[23-Jul-2024 14:59:42 Europe/Istanbul] PHP Parse error:  Unclosed '{' on line 51 in /home/u1514538/public_html/teknik_servis_guncelle.php on line 156
+[23-Jul-2024 15:01:55 Europe/Istanbul] PHP Parse error:  Unclosed '{' on line 51 in /home/u1514538/public_html/teknik_servis_guncelle.php on line 156
+[23-Jul-2024 15:01:59 Europe/Istanbul] PHP Parse error:  Unclosed '{' on line 51 in /home/u1514538/public_html/teknik_servis_guncelle.php on line 156
+[23-Jul-2024 15:04:32 Europe/Istanbul] PHP Parse error:  syntax error, unexpected token "<" in /home/u1514538/public_html/teknik_servis_guncelle.php on line 155
+[23-Jul-2024 15:07:13 Europe/Istanbul] PHP Parse error:  Unclosed '{' on line 52 in /home/u1514538/public_html/teknik_servis_guncelle.php on line 158
+[23-Jul-2024 16:46:46 Europe/Istanbul] PHP Parse error:  syntax error, unexpected variable "$calisan_ekle" in /home/u1514538/public_html/maas_ekle.php on line 19
+[23-Jul-2024 17:37:39 Europe/Istanbul] PHP Parse error:  syntax error, unexpected identifier "netmaas" in /home/u1514538/public_html/maas_ekle.php on line 60
+[23-Jul-2024 17:37:42 Europe/Istanbul] PHP Parse error:  syntax error, unexpected identifier "netmaas" in /home/u1514538/public_html/maas_ekle.php on line 60
+[23-Jul-2024 18:15:43 Europe/Istanbul] PHP Parse error:  syntax error, unexpected token ";" in /home/u1514538/public_html/maas_listele.php on line 79
+[02-Aug-2024 15:23:57 Europe/Istanbul] PHP Parse error:  syntax error, unexpected variable "$seri" in /home/u1514538/public_html/teknik_servis_izle.php on line 16
+[02-Aug-2024 15:26:43 Europe/Istanbul] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/u1514538/public_html/teknik_servis_izle.php on line 107
+[02-Aug-2024 15:27:00 Europe/Istanbul] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/u1514538/public_html/teknik_servis_izle.php on line 107
